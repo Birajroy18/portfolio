@@ -537,17 +537,21 @@ main p i {
 }
 .secondP {
     box-shadow: 0 0px 25px rgba(18, 18, 18, 0.5),
-            0 0 20px #6e6c6c;
+            0 0 20px #670392;
 }
 .thirdP {
     box-shadow: 0 0px 25px rgba(18, 18, 18, 0.5),
-            0 0 20px #1e69d9;
+            0 0 20px #595d64;
 }
 .fourthP {
     box-shadow: 0 0px 25px rgba(18, 18, 18, 0.5),
-            0 0 20px #d48b12;
+            0 0 20px #0853c3;
 }
 .fifthP {
+    box-shadow: 0 0px 25px rgba(18, 18, 18, 0.5),
+            0 0 20px #e07816;
+}
+.sixthP {
     box-shadow: 0 0px 25px rgba(18, 18, 18, 0.5),
             0 0 20px #6e6c6c;
 }
