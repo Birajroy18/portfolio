@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // prevent browser auto-restoring scroll which can skip animations
+  // prevent browser auto-restoring
   if ("scrollRestoration" in history) history.scrollRestoration = "manual";
 
 
